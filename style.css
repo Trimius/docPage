@@ -1,0 +1,15 @@
+:root {
+    /*COLORS*/
+    --light-grey: #f0f5f9;
+    --normal-grey: #c9d6df;
+    --strong-grey: #52616b;
+    --kinda-black: #1e2022;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
